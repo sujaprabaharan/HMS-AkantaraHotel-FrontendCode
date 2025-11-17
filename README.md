@@ -1,3 +1,10 @@
+# Project: Hotel Management System
+
+This is the frontend code of my project. It is built using React.js. 
+
+# Project Description
+This project intends to create and design a single, standalone hotel management system with secure user access, different types of rooms and their descriptions, check room availability, book a room by check-in and check-out dates, view bookings, display the hotel facilities, and manage admin operations. 
+
 # Getting Started 
 
 This project was bootstrapped with create-react-app
